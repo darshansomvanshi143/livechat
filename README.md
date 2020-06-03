@@ -1,2 +1,1 @@
-# livechat
-chatapp
+# chat-app
